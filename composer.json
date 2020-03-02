@@ -1,5 +1,5 @@
 {
-    "name": "slot/mandrill-bundle",
+    "name": "m-naw/mandrill-bundle",
     "type": "symfony-bundle",
     "description": "Symfony Mandrill Bundle",
     "keywords": ["Mandrill", "transaction mail", "transactional", "messages", "email"],
